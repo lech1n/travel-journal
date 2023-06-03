@@ -88,7 +88,7 @@ p{
   line-height: 1.5;
 }
 
-@media (min-width:500px) {
+@media (min-width:900px) {
 section{
 flex-direction: row;
 margin: .5em 0;
